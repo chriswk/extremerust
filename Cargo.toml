@@ -1,0 +1,4 @@
+[package]
+name = "extremerust"
+version = "0.1.0"
+authors = ["chrkolst <christopher.kolstad@finn.no>"]
