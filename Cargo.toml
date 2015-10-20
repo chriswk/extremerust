@@ -2,3 +2,22 @@
 name = "extremerust"
 version = "0.1.0"
 authors = ["chrkolst <christopher.kolstad@finn.no>"]
+
+
+[dependencies.iron]
+version = "*"
+
+[dependencies.time]
+version = "*"
+
+[dependencies.urlencoded]
+version = "*"
+
+[dependencies.regex]
+version = "0.1.41"
+
+[dependencies.bodyparser]
+git = "https://github.com/iron/body-parser.git"
+
+[dependencies.persistent]
+version = "*"
