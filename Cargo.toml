@@ -14,7 +14,7 @@ version = "*"
 version = "*"
 
 [dependencies.regex]
-version = "0.1.41"
+version = "1.5.5"
 
 [dependencies.bodyparser]
 git = "https://github.com/iron/body-parser.git"
